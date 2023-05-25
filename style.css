@@ -1,0 +1,47 @@
+.tituloPrincipal{
+    padding-left: 30px;
+}
+
+
+
+.centrarTitulo{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    
+}
+
+em strong{
+    color: rgba(39, 54, 190, 0.973);
+}
+
+#mision{
+    font-size: 20px;
+}
+
+.principal{
+    background-color: rgb(157, 157, 158);
+    padding: 20px;
+}
+
+.diferenciales{
+    background-color: rgb(255, 255, 255);
+    padding: 30px;
+}
+
+.items{
+    font-style: italic;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagen2{
+    width: 50%;
+}
